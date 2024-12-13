@@ -14,23 +14,23 @@ These instructions will get you a copy of the project up and running on your loc
 
 1.  Clone the repository:
 
-    git clone https://github.com/kuka42/tetris-game-webcontainer.git
+        git clone https://github.com/kuka42/tetris-game-webcontainer.git
 
 
 2.  Navigate to the project directory:
 
-    cd tetris-game
+        cd tetris-game
 
 3.  Install dependencies:
 
-    npm install
+        npm install
 
 
 ### How to run
 
 1.  Start the development server:
 
-    npm run dev
+        npm run dev
 
 
 2.  Open your web browser and go to `http://localhost:5173` (or the address displayed in your terminal).
