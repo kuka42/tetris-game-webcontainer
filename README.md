@@ -1,6 +1,6 @@
 # Tetris Game
 
-This repository contains a simple Tetris game implemented using HTML, CSS, and JavaScript. The game features basic controls, scoring, start, and game over functionality.
+This repository contains a simple Tetris game implemented using HTML, CSS, and JavaScript. The game features basic controls, scoring, start button, and game over functionality.
 
 ## Getting Started
 
@@ -37,10 +37,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Controls
 
-*   Left Arrow: Move the piece left.
-*   Right Arrow: Move the piece right.
-*   Up Arrow: Rotate the piece.
-*   Down Arrow: Move the piece down faster.
+*   Left arrow: Move the piece left
+*   Right arrow: Move the piece right
+*   Up arrow: Rotate the piece
+*   Down arrow: Move the piece down faster
 
 ## Built with
 
