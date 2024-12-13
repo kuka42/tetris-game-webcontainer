@@ -1,0 +1,41 @@
+body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #111111;
+      font: 12px monospace;
+    }
+
+    .container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    canvas {
+      border: 1px solid #eeeeee;
+      background-color: #111111;
+    }
+
+    .ui {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 320px;
+      margin-top: 10px;
+      color: #fff;
+    }
+
+    .ui button {
+      background-color: #eeeeee;
+      color: #111111;
+      border: none;
+      padding: 10px 20px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font: 12px monospace;
+      cursor: pointer;
+    }
